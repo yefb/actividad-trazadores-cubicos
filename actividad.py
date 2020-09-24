@@ -30,4 +30,4 @@ with open('datos.csv') as File:
 
         i = i+1
 #pasamos los limites y valores de tiempo y radiacion
-tcubicos(limit_i, limit_f, rad_arr)
+tcubicos(rad_arr)

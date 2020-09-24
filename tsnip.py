@@ -1,6 +1,6 @@
 import datetime
 
-def tcubicos(limit_i, limit_f, datos_arr):
+def tcubicos(datos_arr):
 
     # Declaracion de variables
 
